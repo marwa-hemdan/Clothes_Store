@@ -77,7 +77,7 @@ Data is fictional/sample for tutorial purposes, with sales in AUD (Australian Do
 - 
 <img width="1502" height="652" alt="proj1" src="https://github.com/user-attachments/assets/9d778bd8-f7c7-487c-bbcd-152337e5b12b" />
 
-<img width="1513" height="621" alt="proj2" src="https://github.com/user-attachments/assets/bda1a5a6-76d8-40bc-8698-31af69185822" />
+<img width="1543" height="358" alt="proj2" src="https://github.com/user-attachments/assets/27dc2965-4880-4377-b1aa-223d72b3ed8b" />
 
 
 ## Build and Learning
